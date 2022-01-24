@@ -16,6 +16,8 @@ An text editor application that is deployed on heroku. The app is a single page 
 
 Visit the live site at: https://sb-text-editior.herokuapp.com/
 
+Demo: ![](/demo.gif)
+
 ## Installation
 Either clone or down the repository and run the command `npm i` to install the dependencies for the project. 
 
