@@ -31,7 +31,7 @@
       "type": "image/png"
     }
   ],
-  "name": "Contact Cards",
+  "name": "Text Editor",
   "short_name": "Contact",
   "orientation": "portrait",
   "display": "standalone",
